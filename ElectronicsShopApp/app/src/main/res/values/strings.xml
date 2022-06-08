@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Electronics Shop</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_products_sold">Products sold</string>
+    <string name="nav_history_add_products">History</string>
+    <string name="nav_profile">Hồ sơ</string>
+    <string name="nav_change_password">Đổi mật khẩu</string>
+
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_account">Tài khoản</string>
+    <string name="first_name">Họ</string>
+    <string name="last_name">Tên</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="email">Email</string>
+    <string name="gender">Giới tính</string>
+    <string name="birthday">Ngày sinh</string>
+    <string name="phone">Điện thoại</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="privacy_policy">Chính sách và quy định</string>
+    <string name="login">Đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="create_account">Tạo tài khoản</string>
+    <string name="forgot_password">Quên mật khẩu</string>
+    <string name="remember_me">Nhớ thông tin</string>
+    <string name="nav_trash">Trash</string>
+    <string name="address">Địa chỉ</string>
+    <string name="job">Công việc</string>
+    <string name="facebook">Facebook</string>
+    <string name="register">Đăng ký</string>
+    <string name="re_password">Nhập lại mật khẩu</string>
+    <string name="smart_phone">Điện thoại</string>
+    <string name="laptop">Laptop</string>
+    <string name="tablet">Tablet</string>
+    <string name="save">Lưu</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="order_history">Lịch sử mua hàng</string>
+    <string name="order_status">Tình trạng đơn hàng</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="note">Ghi chú</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="cancel">Trờ lại</string>
+</resources>

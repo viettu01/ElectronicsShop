@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<decorators defaultdir="/decorators">
+
+    <!--    apply web template-->
+    <decorator name="web" page="web.jsp">
+        <pattern>/*</pattern>
+    </decorator>
+
+    <!--    apply admin template-->
+    <decorator name="admin" page="admin.jsp">
+        <pattern>/admin*</pattern>
+    </decorator>
+
+    <decorator name="api" page="">
+        <pattern>/api*</pattern>
+    </decorator>
+
+    <decorator name="login" page="login.jsp">
+        <pattern>/dang-nhap</pattern>
+    </decorator>
+
+    <decorator name="login" page="login.jsp">
+        <pattern>/dang-ky</pattern>
+    </decorator>
+
+</decorators>

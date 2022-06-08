@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.1">
+    <persistence-unit name="persistence-data">
+        <class>com.tuplv.entity.CategoryEntity</class>
+        <class>com.tuplv.entity.ProductEntity</class>
+        <class>com.tuplv.entity.UserEntity</class>
+        <class>com.tuplv.entity.RoleEntity</class>
+        <class>com.tuplv.entity.CommentEntity</class>
+        <class>com.tuplv.entity.CartEntity</class>
+        <class>com.tuplv.entity.CartProductEntity</class>
+        <class>com.tuplv.entity.OrderEntity</class>
+        <class>com.tuplv.entity.OrderDetailEntity</class>
+    </persistence-unit>
+</persistence>
